@@ -10436,7 +10436,8 @@ h4.sub-title {
   -ms-transition: 0.3s ease-in; }
 
 .w3l-main-banner .banner-view {
-  background: url(https://media-private.canva.com/uhRck/MAFbK5uhRck/1/tl.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20230220%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230220T135815Z&X-Amz-Expires=63497&X-Amz-Signature=9684a2d9a184f4ed80c4c5e417647711feed728cfcad90832ab819b7a90e2b73&X-Amz-SignedHeaders=host&response-expires=Tue%2C%2021%20Feb%202023%2007%3A36%3A32%20GMT) no-repeat right;
+  background: url(../images/home-bg.png);
+  background-repeat: no-repeat right;
   background-size: cover;
   min-height: 100vh;
   position: relative;
